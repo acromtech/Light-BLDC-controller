@@ -116,7 +116,7 @@
 * Dimensions : ?
 * Motor driver : 1 ([IFX007T Driver](https://www.infineon.com/dgdl/Infineon-IFX007T-DS-v01_00-EN.pdf?fileId=5546d46265f064ff0166433484070b75))
 * MCU : [ESP32-PICO-V3](https://www.espressif.com/sites/default/files/documentation/esp32-pico-v3_datasheet_en.pdf)
-* Encoder : [MA702 Encoder](https://www.monolithicpower.com/en/documentview/productdocument/index/version)/2/document_type/Datasheet/lang/en/sku/MA702GQ-Z/document_id/3561/
+* Encoder : [MA702 Encoder](https://www.monolithicpower.com/en/documentview/productdocument/index/version/2/document_type/Datasheet/lang/en/sku/MA702GQ-Z/document_id/3561/)
 * Communication : UART/CAN ([SN65HVD230QDR CAN Tranceiver](https://www.ti.com/lit/ds/symlink/sn65hvd230q.pdf))
 * All-in-one : Magnetic encoder/MCU/Communication interface
 * Simple FOC library compatible
