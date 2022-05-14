@@ -98,6 +98,8 @@
 * Open Source : [Github](https://github.com/jkirsons/stealth-controller)
 
 ## jkirson Stealth Controller mini
+![c2518694029c6ac72dd600172824811d4ebda56d](https://user-images.githubusercontent.com/103576080/168427236-6544fc3b-ee4e-458b-be1c-68aecbaf6011.jpeg)
+
 * Weight : ?
 * Dimensions : 50 x 36mm
 * Motor driver : 1
