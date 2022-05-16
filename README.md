@@ -213,15 +213,14 @@
 
 * Weight : ?
 * Dimensions : 51 x 64mm (70mm x 70mm optional case or mounting plate)
-* MCU : ST
+* MCU : [STM32H7A3RGT6](https://www.st.com/en/microcontrollers-microprocessors/stm32h7a3rg.html#overview)
 * Motor driver : 1
-* Input voltage : 58V max
+* Input voltage : 15-58V
 * Communication : RS-485/CAN-FD (12Mbps)
 * Sensor included : Dedicated Incremental Encoder and Hall Sensor inputs + On-board magnetic encoder (+ API)
 ![Screenshot 2022-05-16 at 09-30-59 Getting Started — ODrive Pro Documentation beta documentation](https://user-images.githubusercontent.com/103576080/168541385-f7ea73eb-cadc-4c76-8046-b02f7dc5b844.png)
 * [API Python Odrive](https://docs.odriverobotics.com/v/beta/getting-started.html)
 * Easy-to-use with a new GUI (improved configuration and calibration experience)
 * Isolated GPIO
-* AC/DC power supply
 * [More informations](https://odriverobotics.com/shop/odrive-pro)
 * Order : [Odrive](https://odriverobotics.com/shop/odrive-pro)
