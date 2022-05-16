@@ -46,33 +46,14 @@
 * Order : [BaseCam](https://shop.basecamelectronics.com/product/simplebgc-32bit-tiny-i2c-2-imu-set-revision-c/)
 
 ## Infineon BLDC SHIELD TLE9879TOBO1
-2
 
-​
-
-3
-
-## uDriver v2
-
-4
-
-<img width="1137" alt="microDriver_v2" src="https://user-images.githubusercontent.com/103576080/168245561-070f91e7-f41c-4bc8-919c-5424a1e39b89.png">
-
-5
-
-​
-
-6
-
-* Weight : 13g
-
-7
-
-* Dimensions: 51mm x 50mm
-
-8
-
-* Motor driver : 2![Screenshot 2022-05-13 at 11-03-30 BLDC Shield with TLE9879QXA40 for Arduino - Infineon-BLDC_shield-UserManual-v01_02-EN pdf](https://user-images.githubusercontent.com/103576080/168250139-465d0ec6-5488-44e1-ad74-b48aaa359b99.png)
+    Moteur à cardan iPower GM2804 avec encodeur AS5048A
+    Conçu pour les petites plates-formes multi-rotors
+    Diamètre de l'arbre creux : 6,5 mm
+    Tension : 10 V
+    Courant : 0,07 A
+    Résistance : 5,57
+![Screenshot 2022-05-13 at 11-03-30 BLDC Shield with TLE9879QXA40 for Arduino - Infineon-BLDC_shield-UserManual-v01_02-EN pdf](https://user-images.githubusercontent.com/103576080/168250139-465d0ec6-5488-44e1-ad74-b48aaa359b99.png)
 
 * Weight : 48g
 * Dimensions : 25×40mmx7mm
