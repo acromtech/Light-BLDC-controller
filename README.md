@@ -46,7 +46,33 @@
 * Order : [BaseCam](https://shop.basecamelectronics.com/product/simplebgc-32bit-tiny-i2c-2-imu-set-revision-c/)
 
 ## Infineon BLDC SHIELD TLE9879TOBO1
-![Screenshot 2022-05-13 at 11-03-30 BLDC Shield with TLE9879QXA40 for Arduino - Infineon-BLDC_shield-UserManual-v01_02-EN pdf](https://user-images.githubusercontent.com/103576080/168250139-465d0ec6-5488-44e1-ad74-b48aaa359b99.png)
+2
+
+​
+
+3
+
+## uDriver v2
+
+4
+
+<img width="1137" alt="microDriver_v2" src="https://user-images.githubusercontent.com/103576080/168245561-070f91e7-f41c-4bc8-919c-5424a1e39b89.png">
+
+5
+
+​
+
+6
+
+* Weight : 13g
+
+7
+
+* Dimensions: 51mm x 50mm
+
+8
+
+* Motor driver : 2![Screenshot 2022-05-13 at 11-03-30 BLDC Shield with TLE9879QXA40 for Arduino - Infineon-BLDC_shield-UserManual-v01_02-EN pdf](https://user-images.githubusercontent.com/103576080/168250139-465d0ec6-5488-44e1-ad74-b48aaa359b99.png)
 
 * Weight : 48g
 * Dimensions : 25×40mmx7mm
@@ -159,6 +185,7 @@
 * Weight : 14.2g
 * Dimensions : 46 x 53mm
 * MCU : 170 MHz 32 bit STM32G4
+* Motor driver : 1
 * Input voltage : 10-44V
 * Communication : 5Mbps CAN-FD
 * Sensor included : Hall
@@ -177,3 +204,24 @@
 * Open Source Firmware
 * [More informations](https://tinymovr.com/products/tinymovr-r5)
 * Order : [Tinymovr](https://tinymovr.com/products/tinymovr-r5)
+
+
+## ODrive Pro (BETA)
+![PXL_20220111_021553856-01](https://user-images.githubusercontent.com/103576080/168539500-0a5a69d6-11ca-4787-8861-00f218f7228c.jpeg)
+![PXL_20220111_021355851-01](https://user-images.githubusercontent.com/103576080/168539926-252f3c79-a932-48d7-aa04-77ad261a6a0d.jpeg)
+![pro_pinout](https://user-images.githubusercontent.com/103576080/168542064-857eee5e-daf4-4f15-91b9-45ff8361c485.png)
+
+* Weight : ?
+* Dimensions : 51 x 64mm (70mm x 70mm optional case or mounting plate)
+* MCU : ST
+* Motor driver : 1
+* Input voltage : 58V max
+* Communication : RS-485/CAN-FD (12Mbps)
+* Sensor included : Dedicated Incremental Encoder and Hall Sensor inputs + On-board magnetic encoder (+ API)
+![Screenshot 2022-05-16 at 09-30-59 Getting Started — ODrive Pro Documentation beta documentation](https://user-images.githubusercontent.com/103576080/168541385-f7ea73eb-cadc-4c76-8046-b02f7dc5b844.png)
+* [API Python Odrive](https://docs.odriverobotics.com/v/beta/getting-started.html)
+* Easy-to-use with a new GUI (improved configuration and calibration experience)
+* Isolated GPIO
+* AC/DC power supply
+* [More informations](https://odriverobotics.com/shop/odrive-pro)
+* Order : [Odrive](https://odriverobotics.com/shop/odrive-pro)
